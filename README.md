@@ -43,6 +43,7 @@
 
 🔹 [📚 Transformando Vidas atráves da Educação](https://medium.com/grupo-32/passos-m%C3%A1gicos-transformando-vidas-atr%C3%A1ves-da-educa%C3%A7%C3%A3o-a76a334961c0)  
 → Criação de storytelling e dashboard para auxiliar a Passos Mágicos a tomar melhores decisões.
+
 ---
 
 ## Sobre mim
