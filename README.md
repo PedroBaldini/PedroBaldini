@@ -56,4 +56,4 @@
 
 📫 **Vamos conversar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedrobaldini/)
-[![Gmail](pedro.baldini25@gmail.com)
+Email: pedro.baldini25@gmail.com
