@@ -23,12 +23,26 @@
 
 ## 📂 Projetos em destaque
 
-🔹 [📈 Previsão de Churn com Machine Learning](https://github.com/seu-usuario/projeto-churn)  
+🔹 [📈 Previsão de Churn com Machine Learning](https://github.com/PedroBaldini/Customer-Churn-Analysis)  
 → Classificação de clientes com risco de cancelamento usando XGBoost, análise de variáveis e dashboard com Power BI.
 
-🔹 [🚓 Análise de veículos subtraídos com PySpark](https://github.com/seu-usuario/veiculos-subtraidos)  
+🔹 [🚓 Análise de veículos subtraídos com PySpark](https://github.com/PedroBaldini/analise-veiculos-subtraidos-2024)  
 → Projeto com dados reais, manipulação distribuída e geração de insights com Spark no Google Colab.
 
+🔹 [🍷 Análise sobre Exportação de Vinhos no Brasil](https://medium.com/grupo-32/an%C3%A1lise-sobre-a-exporta%C3%A7%C3%A3o-de-vinhos-no-brasil-0d9858104c67)  
+→ Projeto com dados reais com análise sobre exportação de vinhos com dados da Embrapa.
+
+🔹 [📈 Prevendo o Ibovespa com Python](https://medium.com/grupo-32/prevendo-o-ibovespa-com-python-1cbda2a3c824)  
+→ Projeto com dados reais de modelo de previsão com Prophet para o fechamento do Ibovespa.
+
+🔹 [😷 Banco de Dados Hospitalar a partir da pesquisa PNAD-COVID19](https://medium.com/grupo-32/banco-de-dados-hospitalar-a-partir-da-pesquisa-pnad-covid19-do-ibge-8600ac678b6b)  
+→ Criação de banco de dados e análise sobre a pandemia no Brasil.
+
+🔹 [🏗 Prevendo o preço do petróleo Brent](https://medium.com/grupo-32/prevendo-o-pre%C3%A7o-do-petr%C3%B3leo-brent-a-partir-de-dados-do-ipea-a29b238cde06)  
+→ Criação de dashboard e modelo preditivo do preço do petróleo Brent a partir de dados do IPEA.
+
+🔹 [📚 Transformando Vidas atráves da Educação](https://medium.com/grupo-32/passos-m%C3%A1gicos-transformando-vidas-atr%C3%A1ves-da-educa%C3%A7%C3%A3o-a76a334961c0)  
+→ Criação de storytelling e dashboard para auxiliar a Passos Mágicos a tomar melhores decisões.
 ---
 
 ## Sobre mim
@@ -41,4 +55,5 @@
 ---
 
 📫 **Vamos conversar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedrobaldini/)
+[![Gmail](pedro.baldini25@gmail.com)
